@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "306595833095",
+    "project_id": "firepo-29704",
+    "storage_bucket": "firepo-29704.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306595833095:android:77714f44cb5f4bc345d1a2",
+        "android_client_info": {
+          "package_name": "com.example.firepo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0pEyX9ukkR6Zo3k3PNsYw3YpEYgwv7r0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
